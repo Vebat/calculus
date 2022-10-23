@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%D1%81alculus/static/css/main.13bee140.css",
+    "main.js": "/%D1%81alculus/static/js/main.203588cf.js",
+    "static/js/787.e37a62df.chunk.js": "/%D1%81alculus/static/js/787.e37a62df.chunk.js",
+    "static/media/logo.svg": "/%D1%81alculus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%D1%81alculus/index.html",
+    "main.13bee140.css.map": "/%D1%81alculus/static/css/main.13bee140.css.map",
+    "main.203588cf.js.map": "/%D1%81alculus/static/js/main.203588cf.js.map",
+    "787.e37a62df.chunk.js.map": "/%D1%81alculus/static/js/787.e37a62df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13bee140.css",
+    "static/js/main.203588cf.js"
+  ]
+}
